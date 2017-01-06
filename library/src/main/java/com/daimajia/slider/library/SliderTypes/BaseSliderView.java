@@ -4,6 +4,7 @@ import android.content.Context;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
+import com.daimajia.slider.library.SliderTypes.TouchImageView;
 
 import com.daimajia.slider.library.R;
 import com.squareup.picasso.Callback;
